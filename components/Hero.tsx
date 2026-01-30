@@ -17,10 +17,10 @@ const Hero = () => {
           </div>
           <div>
             
-              <p className="font-medium text-gray-900">HELLO,</p>
+              <p className="font-medium text-gray-900">HELLO, MEET</p>
             
             <h1 className="font-heading text-5xl md:text-7xl font-bold text-gray-900 mb-6 ">
-              Susan Mwarabu
+              Susan Mwarabu.
             </h1>
             <p className="text-xl md:text-2xl text-amber-600 font-heading font-medium mb-8 ">
               Youth Mentor | Youth Pastor | Criminology &amp; IT Graduate
