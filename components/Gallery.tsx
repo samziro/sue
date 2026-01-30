@@ -29,21 +29,21 @@ const GalleryItem = ({ src, alt, organization }: GalleryItemProps) => (
 
 /* ---------- Gallery Data ---------- */
 const galleryData = [
-  { src: "/Growing in obedience and Discipleship program shingila_1.jpeg", alt: "Youth Bible Study & Discipleship", organization: "Shingila Ministries" },
-  { src: "/Growing in obedience and Discipleship program shingila_2.jpeg", alt: "Youth Ministry Outreach Event", organization: "Shingila Ministries" },
-  { src: "/Growing in obedience and Discipleship program shingila_3.jpeg", alt: "Life Skills Development Workshop", organization: "Shingila Ministries" },
-  { src: "/Growing in obedience and Discipleship program shingila_4.jpeg", alt: "Youth Prayer & Worship", organization: "Shingila Ministries" },
+  { src: "/Growing in obedience and Discipleship program shingila_1.webp", alt: "Youth Bible Study & Discipleship", organization: "Shingila Ministries" },
+  { src: "/Growing in obedience and Discipleship program shingila_2.webp", alt: "Youth Ministry Outreach Event", organization: "Shingila Ministries" },
+  { src: "/Growing in obedience and Discipleship program shingila_3.webp", alt: "Life Skills Development Workshop", organization: "Shingila Ministries" },
+  { src: "/Growing in obedience and Discipleship program shingila_4.webp", alt: "Youth Prayer & Worship", organization: "Shingila Ministries" },
 
-  { src: "/Maweu Your one degree program_1.jpeg", alt: "Mentorship & Guidance Sessions", organization: "Maweu Youth Programs" },
-  { src: "/Maweu Your one degree program_2.jpeg", alt: "Youth Empowerment Activities", organization: "Maweu Youth Programs" },
-  { src: "/Maweu Your one degree program_3.jpeg", alt: "Educational Workshops & Seminars", organization: "Maweu Youth Programs" },
-  { src: "/Your one degree program Jamii villa_1.jpeg", alt: "Team Building Exercises", organization: "Jamii Villa Youth Programs" },
-  { src: "/Your one degree program Jamii villa_2.jpeg", alt: "Youth Leadership Training", organization: "Jamii Villa Youth Programs" },
-  { src: "/Your one degree program Jamii villa_3.jpeg", alt: "Faith-Based Mentorship", organization: "Jamii Villa Youth Programs" },
-  { src: "/Your one degree program Jamii villa_4.jpeg", alt: "Community Engagement Projects", organization: "Jamii Villa Youth Programs" },
+  { src: "/Maweu Your one degree program_1.webp", alt: "Mentorship & Guidance Sessions", organization: "Maweu Youth Programs" },
+  { src: "/Maweu Your one degree program_2.webp", alt: "Youth Empowerment Activities", organization: "Maweu Youth Programs" },
+  { src: "/Maweu Your one degree program_3.webp", alt: "Educational Workshops & Seminars", organization: "Maweu Youth Programs" },
+  { src: "/Your one degree program Jamii villa_1.webp", alt: "Team Building Exercises", organization: "Jamii Villa Youth Programs" },
+  { src: "/Your one degree program Jamii villa_2.webp", alt: "Youth Leadership Training", organization: "Jamii Villa Youth Programs" },
+  { src: "/Your one degree program Jamii villa_3.webp", alt: "Faith-Based Mentorship", organization: "Jamii Villa Youth Programs" },
+  { src: "/Your one degree program Jamii villa_4.webp", alt: "Community Engagement Projects", organization: "Jamii Villa Youth Programs" },
 
-  { src: "/youth4intergrity_1.jpeg", alt: "Youth Empowerment Activities", organization: "Youth for Integrity Building" },
-  { src: "/youth4intergrity_2.jpeg", alt: "Integrity Building Workshops", organization: "Youth for Integrity Building" },
+  { src: "/youth4intergrity_1.webp", alt: "Youth Empowerment Activities", organization: "Youth for Integrity Building" },
+  { src: "/youth4intergrity_2.webp", alt: "Integrity Building Workshops", organization: "Youth for Integrity Building" },
 ];
 
 /* ---------- Main Component ---------- */
