@@ -12,7 +12,7 @@ const Hero = () => {
                 alt="Susan Mwarabu"
                 loading="lazy"
                 className="w-full h-full object-cover object-center"
-              src="/me.jpeg"
+              src="/me.webp"
             />
           </div>
           <div>
