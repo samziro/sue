@@ -15,7 +15,7 @@ const About = () => {
                 alt="Susan Mwarabu"
                 loading="lazy"
                 className="w-full h-full object-cover object-center"
-                src="/3.webp"
+                src="/Your one degree program Jamii villa_5.webp"
               />
             </div>
           </div>
